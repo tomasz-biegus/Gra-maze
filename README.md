@@ -1,14 +1,16 @@
-Celem projektu jest stworzenie gry logicznej, w której gracz musi rozwiązać zagadki przestrzenne, by znaleźć wyjście z różnych poziomów labiryntu. Gra 2D oferuje graczowi możliwość wcielenia się w postać poruszającą się po skomplikowanych korytarzach, które wymagają logicznego myślenia oraz zręczności. Każdy poziom posiada unikalne ułożenie labiryntu i różnorodne przeszkody, które sprawiają, że wyjście staje się coraz bardziej skomplikowane.
-Gra ma na celu dostarczenie graczowi intelektualnej rozrywki oraz rozwijanie umiejętności planowania i orientacji przestrzennej. Aby wygrać, gracz musi przebrnąć przez wszystkie poziomy labiryntu bez utraty „życia”. Gra kończy się sukcesem, gdy gracz ukończy wszystkie poziomy, lub porażką, jeśli nie uda mu się wydostać z labiryntu.
-Celem projektu jest stworzenie angażującego, łatwego do obsługi, ale wymagającego systemu gry, która będzie działać na komputerach z systemem Windows 10 i będzie oferować możliwość rozgrywki offline, z intuicyjnym interfejsem obsługiwanym wyłącznie klawiaturą.
+Project Description
+The objective of this project is to create a logic game where the player must solve spatial puzzles to find the exit from various labyrinth levels. This 2D game allows the player to take on the role of a character navigating complex corridors that require both logical thinking and dexterity. Each level features a unique maze layout and various obstacles that make finding the exit increasingly challenging.
 
-Wymagania funkcjonalne:
+The game aims to provide intellectual entertainment while developing planning skills and spatial orientation. To win, the player must navigate through all labyrinth levels without losing a "life." The game ends in success when the player completes all levels, or in failure if they fail to escape the maze.
 
-•	Wprowadzenie do rozgrywki
-•	Menu główne umożliwiające rozpoczęcie gry, przejście do ustawień, przejście do kreatora planszy, wyjście z gry
-•	Różnorodne plansze labiryntu różniące się poziomem trudności i skomplikowania
-•	Możliwość personalizacji wyglądu postaci gracza i interfejsu gry.
-•	Możliwość opuszczenia gry w każdym momencie
-•	Kreator planszy, użytkownik podaje wymiary, po czym samą planszę, która jest wyświetlana na końcu
-•	Zakończenie gry poprzez przejście wszystkich plansz labiryntu
-•	Wyświetlanie na bieżąco informacji o aktualnym poziomie na którym znajduje się gracz
+The goal of the project is to create an engaging, user-friendly, yet demanding game system that runs on Windows 10, offers offline gameplay, and features an intuitive interface operated exclusively via keyboard.
+
+Functional Requirements:
+*Introduction to gameplay
+*Main menu with options to start the game, enter settings, access the level editor, or exit the game.
+*Diverse labyrinth boards varying in difficulty and complexity.
+*Customization options for the player character's appearance and the game interface.
+*Quit-at-any-time functionality.
+*Level Editor: The user provides dimensions and then designs the board, which is displayed upon completion.
+*Game completion by successfully passing all labyrinth levels.
+*Real-time HUD: Continuous display of information regarding the player's current level.
